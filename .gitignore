@@ -1,0 +1,19 @@
+# Django stuff
+*.pyc
+__pycache__/
+db.sqlite3
+/staticfiles/
+/media/
+
+# Environment
+.env
+*.venv
+venv/
+ENV/
+*.egg-info/
+
+# VS Code
+.vscode/
+
+# Virtualenv from pipenv
+*.virtualenvs/
